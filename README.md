@@ -25,8 +25,8 @@ An interactive CLI Java application that generates multiplication tables based o
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sivasekhar-939/java-internship05.git
-   cd java-internship05
+   git clone https://github.com/sai2203-2005/java-intern05.git
+   cd java-intern05
    ```
 
 2. **Compile the Java program:**
